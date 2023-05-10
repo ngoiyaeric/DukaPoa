@@ -1,6 +1,6 @@
 # Smartshoppers
 Full stack Ecommerce
-
+![alt text] https://github.com/ngoiyaeric/Smartshoppers/assets/115367894/a045a5b1-108a-43bd-85ee-45fab09c139a
 Software Design: 
 1. Separation of concern 
 2. MVC architecture 
