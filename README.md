@@ -1,4 +1,4 @@
-# Smartshoppers
+# DukaPoa
 Full stack Ecommerce
 
 <p align = "center">
